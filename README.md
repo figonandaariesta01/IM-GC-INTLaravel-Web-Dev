@@ -1,2 +1,2 @@
-# IM-GC-INTLaravel-Web-Dev
+# IM-GC-INSLaravel-Web-Dev
 kodingan nih
